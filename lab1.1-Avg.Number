@@ -1,0 +1,24 @@
+#total and average of three numbers
+
+x=int(input("Enter a number"))
+y=int(input("Enter a number"))
+z=int(input("Enter a number"))
+
+#total of three numbers
+total=x+y+z
+
+#average of three numbers
+average=total/3
+
+print(total)
+print(average)
+
+#output
+
+#Enter a number10
+#Enter a number20
+#Enter a number30
+#60
+#20.0
+
+
