@@ -1,0 +1,12 @@
+#Program to find whether the given number is greater than 20
+
+a=raw_input("Enter a value")
+if a<20:
+      print('a is <20')
+      print('Hii')
+
+#Output
+Enter a value
+10
+a is <20
+Hii
