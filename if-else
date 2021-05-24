@@ -14,7 +14,7 @@ else:
           print("a is even")
           
 #OUTPUT
-6
-9
+4
+10
 a is even
 b is odd
