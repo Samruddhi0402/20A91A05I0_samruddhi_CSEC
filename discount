@@ -1,0 +1,25 @@
+#program to calculate the discount and the final bill amount pay by the customer
+
+n=int(input("Enter a number"))
+if(n>1000):
+    dis=(10/100)*n
+    bill_amt=n-dis
+    print(bill_amt)
+
+elif(n>2000):
+    dis=(20/100)*n
+    bill_amt=n-dis
+    print(bill_amt)
+
+elif(n>3000):
+    dis=(30/100)*n
+    bill_amt=n-dis
+    print(bill_amt)
+
+elif(n>4000):
+     dis=(40/100)*n
+     bill_amt=n-dis
+     print(bill_amt)
+#output
+Enter a number 4000
+3600.0
