@@ -7,9 +7,9 @@ for i in range(s,e,c):
     print(i)
     
  #output
-Enter the starting number1
-Enter the end value20
-Enter the step count2
+Enter the starting number 1
+Enter the end value 20
+Enter the step count 2
 1
 3
 5
