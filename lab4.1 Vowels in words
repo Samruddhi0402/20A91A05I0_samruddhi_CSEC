@@ -1,0 +1,13 @@
+#Program to print the vowels of a string
+
+s=input("enter a word")
+print("vowels in the string are")
+for char in  s:
+    if char=='a' or char=='e' or char=='i' or char=='o' or char=='u':
+        print(char)
+
+#OUTPUT
+
+enter a word python
+vowels in the string are
+o
